@@ -1,0 +1,22 @@
+{
+    "name": "asterion/FakerChilean",
+    "description": "Faker for chilean data",
+    "license": "MIT",
+    "keywords": ["fixtures", "chilean", "run", "rut"],
+    "authors": [
+        {
+            "name": "Marcos Matamala",
+            "email": "marcos@tidor.cl"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "fzaninotto/faker": "dev-master"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Tidor\\": "src/Tidor"
+        }
+    }
+}
