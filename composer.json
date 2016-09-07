@@ -9,6 +9,7 @@
             "email": "marcos@tidor.cl"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.0",
         "fzaninotto/faker": "dev-master"
