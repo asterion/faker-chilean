@@ -19,7 +19,7 @@
         "psr-4": {
             "Tidor\\": "src/Tidor"
         }
-    }
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "master"
