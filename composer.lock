@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b1e4a0ab6ce0256dc4a17cc73a8170b3",
-    "content-hash": "af5cceb3e54097b1f297cd31357f9853",
+    "hash": "ca86d166c7c9955e615437fad53f7f31",
+    "content-hash": "3812662e1a3411b8ea4dca345263ba27",
     "packages": [
         {
             "name": "fzaninotto/faker",
@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fzaninotto/Faker.git",
-                "reference": "8a2908f4ba8d5b4cab8b9f956fe10205d75ace48"
+                "reference": "3e55d05e0781418be6a5b1fcacd0991e72ef7354"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/8a2908f4ba8d5b4cab8b9f956fe10205d75ace48",
-                "reference": "8a2908f4ba8d5b4cab8b9f956fe10205d75ace48",
+                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/3e55d05e0781418be6a5b1fcacd0991e72ef7354",
+                "reference": "3e55d05e0781418be6a5b1fcacd0991e72ef7354",
                 "shasum": ""
             },
             "require": {
@@ -55,7 +55,7 @@
                 "faker",
                 "fixtures"
             ],
-            "time": "2016-09-05 08:33:15"
+            "time": "2016-09-07 08:01:27"
         }
     ],
     "packages-dev": [],
