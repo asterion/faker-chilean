@@ -1,5 +1,5 @@
 {
-    "name": "asterion/FakerChilean",
+    "name": "faker-chilean",
     "description": "Faker for chilean data",
     "license": "MIT",
     "keywords": ["fixtures", "chilean", "run", "rut"],
