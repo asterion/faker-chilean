@@ -6,13 +6,13 @@
     "authors": [
         {
             "name": "Marcos Matamala",
-            "email": "marcos@tidor.cl"
+            "email": "mmatamala1982@gmail.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": "^7.0",
-        "fzaninotto/faker": "dev-master"
+        "php": ">=7.4",
+        "fakerphp/faker": ">=v1.21-dev"
     },
     "require-dev": {},
     "autoload": {
@@ -22,7 +22,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "v0.0.2-dev"
+            "dev-master": "v0.0.3-dev"
         }
     }
 }
