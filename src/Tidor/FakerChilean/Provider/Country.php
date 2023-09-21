@@ -23,7 +23,7 @@ class Country extends ProviderBase
 
     public function countryList()
     {
-        $filename = realpath(__DIR__ . '/../../../../vendor/umpirsky/country-list/data/es_CL') . '/country.php';
+        $filename = realpath(__DIR__ . '/data/es_CL') . '/country.php';
 
         return require($filename);
     }

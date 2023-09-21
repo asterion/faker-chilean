@@ -11,8 +11,7 @@
     ],
     "require": {
         "php": ">=7.4",
-        "fakerphp/faker": "^v1.21-dev",
-        "umpirsky/country-list": "dev-master"
+        "fakerphp/faker": "^v1.21-dev"
     },
     "require-dev": {
         "rector/rector": "dev-main"
